@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026071101/felix-2026071101-780a3f5-rootless.zip",
-    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026071101/felix-2026071101-780a3f5-rootless.zip.csig"
+    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026071501/felix-2026071501-c6a70aa-rootless.zip",
+    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026071501/felix-2026071501-c6a70aa-rootless.zip.csig"
   }
 }
