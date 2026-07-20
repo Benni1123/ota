@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026071501/blazer-2026071501-c6a70aa-magisk-v30.7.zip",
-    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026071501/blazer-2026071501-c6a70aa-magisk-v30.7.zip.csig"
+    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026071501/blazer-2026071501-4048f5a-magisk-v30.7.zip",
+    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026071501/blazer-2026071501-4048f5a-magisk-v30.7.zip.csig"
   }
 }
