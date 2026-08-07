@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026072901/tokay-2026072901-8e669ca-rootless.zip",
-    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026072901/tokay-2026072901-8e669ca-rootless.zip.csig"
+    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026080501/tokay-2026080501-8af6720-rootless.zip",
+    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026080501/tokay-2026080501-8af6720-rootless.zip.csig"
   }
 }
