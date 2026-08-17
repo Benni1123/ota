@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026080501/mustang-2026080501-8af6720-rootless.zip",
-    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026080501/mustang-2026080501-8af6720-rootless.zip.csig"
+    "location_ota": "https://github.com/Benni1123/ota/releases/download/2026081301/mustang-2026081301-8af6720-rootless.zip",
+    "location_csig": "https://github.com/Benni1123/ota/releases/download/2026081301/mustang-2026081301-8af6720-rootless.zip.csig"
   }
 }
